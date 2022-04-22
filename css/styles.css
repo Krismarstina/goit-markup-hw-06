@@ -793,7 +793,7 @@ img {
 
 .footer-btn::after {
   content: "";
-  background-image: url(../images/icon-send.svg);
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg width='24' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M24 0 0 13.5l7.67 2.84L19.5 5.25l-8.998 12.14.007.002-.009-.002V24l4.301-5.018L20.251 21 24 0Z' fill='%23fff'/%3e%3c/svg%3e");
   width: 24px;
   height: 24px;
   margin-left: 10px;
